@@ -1,0 +1,113 @@
+
+ Observation sequence:CLLCCLLLCCL
+ Length of sequence:11
+
+ After Observation 1: C
+
+ P(h1 | Q)=0.2
+ P(h2 | Q)=0.30000000000000004
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.1
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:1
+ Probability that the next candy will be L,given Q:0
+
+ After Observation 2: L
+
+ P(h1 | Q)=0.0
+ P(h2 | Q)=0.15000000000000002
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.15000000000000002
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:1
+ Probability that the next candy will be L,given Q:0
+
+ After Observation 3: L
+
+ P(h1 | Q)=0.0
+ P(h2 | Q)=0.07500000000000001
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.22500000000000003
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:0
+ Probability that the next candy will be L,given Q:1
+
+ After Observation 4: C
+
+ P(h1 | Q)=0.0
+ P(h2 | Q)=0.11250000000000002
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.11250000000000002
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:0
+ Probability that the next candy will be L,given Q:1
+
+ After Observation 5: C
+
+ P(h1 | Q)=0.0
+ P(h2 | Q)=0.16875
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.05625000000000001
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:1
+ Probability that the next candy will be L,given Q:0
+
+ After Observation 6: L
+
+ P(h1 | Q)=0.0
+ P(h2 | Q)=0.084375
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.084375
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:1
+ Probability that the next candy will be L,given Q:0
+
+ After Observation 7: L
+
+ P(h1 | Q)=0.0
+ P(h2 | Q)=0.0421875
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.12656250000000002
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:1
+ Probability that the next candy will be L,given Q:0
+
+ After Observation 8: L
+
+ P(h1 | Q)=0.0
+ P(h2 | Q)=0.02109375
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.18984375000000003
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:0
+ Probability that the next candy will be L,given Q:1
+
+ After Observation 9: C
+
+ P(h1 | Q)=0.0
+ P(h2 | Q)=0.031640625000000006
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.09492187500000002
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:0
+ Probability that the next candy will be L,given Q:1
+
+ After Observation 10: C
+
+ P(h1 | Q)=0.0
+ P(h2 | Q)=0.04746093750000001
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.04746093750000001
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:1
+ Probability that the next candy will be L,given Q:0
+
+ After Observation 11: L
+
+ P(h1 | Q)=0.0
+ P(h2 | Q)=0.023730468750000004
+ P(h3 | Q)=0.4
+ P(h4 | Q)=0.07119140625
+ P(h5 | Q)=0.0
+ Probability that the next candy will be C,given Q:0
+ Probability that the next candy will be L,given Q:1
